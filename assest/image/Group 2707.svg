@@ -1,0 +1,33 @@
+<svg id="Group_2707" data-name="Group 2707" xmlns="http://www.w3.org/2000/svg" width="30.151" height="30.151" viewBox="0 0 30.151 30.151">
+  <g id="Group_2686" data-name="Group 2686" transform="translate(7.126)">
+    <path id="Path_6711" data-name="Path 6711" d="M143.317,1.575l.709-1.069A14.1,14.1,0,0,0,141.317,0a6.24,6.24,0,0,0-3.523,1.154A13.408,13.408,0,0,0,132.5,0h-.014C126.152,0,121,4.418,121,9.776a7.919,7.919,0,0,0,.379,2.446l.258.793a13.322,13.322,0,0,1,3.78-.589,9.953,9.953,0,0,1,7.081,2.452,9.268,9.268,0,0,1,2.542,4.284c.005.018.01.034.015.048l.006.019a.217.217,0,0,0,.019.045l.826-.217c4.822-1.27,8.12-5,8.12-9.281a8.75,8.75,0,0,0-1.786-5.143A6.926,6.926,0,0,1,143.317,1.575Z" transform="translate(-121)" fill="#005cff"/>
+  </g>
+  <path id="Path_6712" data-name="Path 6712" d="M325.982,4.633a8.75,8.75,0,0,1,1.786,5.143c0,4.281-3.3,8.011-8.12,9.281l-.826.217a.217.217,0,0,1-.019-.045l-.006-.019c0-.014-.009-.029-.015-.048a9.375,9.375,0,0,0-2.542-4.268V0a13.408,13.408,0,0,1,5.3,1.154A6.24,6.24,0,0,1,325.059,0a14.1,14.1,0,0,1,2.709.506l-.709,1.069a6.927,6.927,0,0,0-1.077,3.058Z" transform="translate(-297.617)" fill="#80aeff"/>
+  <g id="Group_2687" data-name="Group 2687" transform="translate(0 10.659)">
+    <path id="Path_6713" data-name="Path 6713" d="M11.542,200.492a13.4,13.4,0,0,1-5.31-1.154,6.241,6.241,0,0,1-3.523,1.154A14.092,14.092,0,0,1,0,199.987l.709-1.069a6.929,6.929,0,0,0,1.077-3.058A8.755,8.755,0,0,1,0,190.717C0,185.4,5.088,181,11.542,181c6.717,0,11.483,4.649,11.483,9.717C23.026,196.075,17.874,200.492,11.542,200.492Z" transform="translate(0 -181)" fill="#8a8a8a"/>
+  </g>
+  <path id="Path_6714" data-name="Path 6714" d="M207.483,190.717c0-5.067-4.767-9.717-11.483-9.717v19.492C202.332,200.492,207.483,196.075,207.483,190.717Z" transform="translate(-184.458 -170.341)" fill="#636363"/>
+  <g id="bribery_talk" data-name="bribery talk" transform="translate(7.214 7.126)">
+    <g id="Group_2688" data-name="Group 2688" transform="translate(6.978)">
+      <path id="Path_6715" data-name="Path 6715" d="M241,121h1.767v1.767H241Z" transform="translate(-241 -121)" fill="#fff"/>
+    </g>
+    <g id="Group_2689" data-name="Group 2689" transform="translate(10.512)">
+      <path id="Path_6716" data-name="Path 6716" d="M301,121h1.767v1.767H301Z" transform="translate(-301 -121)" fill="#fff"/>
+    </g>
+    <g id="Group_2690" data-name="Group 2690" transform="translate(14.045)">
+      <path id="Path_6717" data-name="Path 6717" d="M361,121h1.767v1.767H361Z" transform="translate(-361 -121)" fill="#fff"/>
+    </g>
+    <g id="bribery_talk-2" data-name="bribery talk" transform="translate(0 12.157)">
+      <g id="Group_2691" data-name="Group 2691">
+        <path id="Path_6718" data-name="Path 6718" d="M122.5,327.429h1.767V329.2H122.5Z" transform="translate(-122.5 -327.429)" fill="#fff"/>
+      </g>
+      <g id="Group_2692" data-name="Group 2692" transform="translate(3.533)">
+        <path id="Path_6719" data-name="Path 6719" d="M182.5,327.429h1.767V329.2H182.5Z" transform="translate(-182.5 -327.429)" fill="#fff"/>
+      </g>
+      <g id="Group_2693" data-name="Group 2693" transform="translate(7.067)">
+        <path id="Path_6720" data-name="Path 6720" d="M242.5,327.429h1.767V329.2H242.5Z" transform="translate(-242.5 -327.429)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <path id="Path_6721" data-name="Path 6721" d="M316.242,121h.869v1.767h-.869Z" transform="translate(-297.619 -113.874)" fill="#fff"/>
+</svg>
