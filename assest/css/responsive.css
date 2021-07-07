@@ -733,3 +733,9 @@
     }
 }
 
+@media(min-width: 1350px) {
+    .box_best_Lawyer { 
+        min-width: 454px;
+    }
+}
+
