@@ -454,10 +454,10 @@
         width: 17%!important;
     }
     .btn-question-and-answer {
-        margin-right: 52%!important;
+        margin-right: 58%!important;
     }
     .box_question-and-answer {
-        height: 470px!important;
+        height: 425px!important;
         padding-top: 10px;
     }
     .question-and-answer1 h5 {
@@ -488,6 +488,7 @@
     }
     .information-question {
         font-size: 9pt;
+        display: inherit!important;
     }
     .information-answer {
         font-size: 11pt;
